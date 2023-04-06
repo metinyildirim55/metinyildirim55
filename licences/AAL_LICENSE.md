@@ -1,6 +1,6 @@
 The Anti-Abuse License (AAL)
 
-Copyright (c) 2023 Metin Yıldırım
+Copyright (c) 2023 Metin Yıldırım (metinyildirim55)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, and distribute the Software solely for good, not evil, purposes. Such good purposes include, but are not limited to:
 
